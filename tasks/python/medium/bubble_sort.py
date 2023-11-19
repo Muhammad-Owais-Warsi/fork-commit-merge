@@ -8,6 +8,8 @@ def bubble_sort(arr):
                 arr[i],arr[j] = arr[j],arr[i];
 
 
+
+
 #! Test cases (Don't edit):
 arr = [64, 25, 12, 22, 11]
 print("Original array:", arr)
